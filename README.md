@@ -14,7 +14,7 @@
 
 ### installation
 - clone from github and get dependencies 
-    - git clone https://github.com/RBLU/convertTDD.git
+    - git clone https://github.com/SEI-Testing/convertTDD.git
     - cd sei-unittest
     - npm install
 
