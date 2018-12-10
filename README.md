@@ -1,5 +1,5 @@
 # SEI - Camp 4 - Agile Testing
-## Exercise 1
+## Exercise 2 - TDD converter
 
 ### Prerequisites
 
