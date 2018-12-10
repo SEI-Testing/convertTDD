@@ -1,0 +1,15 @@
+{
+  "name": "convertTDD",
+  "version": "1.0.0",
+  "description": "simple converterTDD",
+  "main": "index.js",
+  "scripts": {
+    "testwatch": "nodemon --exec \"jasmine\" --watch src --watch spec",
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "author": "Reto Blunschi <reto.blunschi@youpers.com> (http://www.youpers.com)",
+  "license": "ISC"
+}
